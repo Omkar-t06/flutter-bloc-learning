@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "57969242539",
+    "project_id": "push-notification-e6ab5",
+    "storage_bucket": "push-notification-e6ab5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57969242539:android:b08072a1d2ba2a959de2ee",
+        "android_client_info": {
+          "package_name": "com.example.bloc_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbhIlXpJh4MyYRCqciRIQilARecu2C9o4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57969242539:android:9ea2f4eb9390c9ec9de2ee",
+        "android_client_info": {
+          "package_name": "com.omkar.pushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbhIlXpJh4MyYRCqciRIQilARecu2C9o4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
